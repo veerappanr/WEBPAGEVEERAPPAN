@@ -1,2 +1,5 @@
 # WEBPAGEVEERAPPAN
 Basic webpage
+
+HTML5, CSS, JS, BOOTSTRAP5
+
